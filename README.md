@@ -1,5 +1,15 @@
 # 💫 About Me:
-I'm correctly pursuing by bachelor of engineering in information technology branch from mbm university jodhpur<br>successfully completed my internship at hashedBit innovation in full stack development domain<br>internship duration : 2 months<br>currently i am learning dsa , make project  for placement<br> and prepare for gate exam 2026<br>skill : c , c++ , html , css , python <br>
+I am currently pursuing a Bachelor of Engineering in Information Technology from MBM University, Jodhpur. I have successfully completed a two month internship at HashedBit Innovation, where I worked in the Full Stack Development domain and gained hands-on experience in building and understanding web applications.
+
+At present, I am actively learning Data Structures and Algorithms, developing projects for campus placements, and preparing for the GATE 2026 examination. I am focused on strengthening my problem-solving skills and building a strong technical foundation.
+
+Technical Skills
+
+Programming Languages: C, C++, Python
+
+Web Technologies: HTML, CSS
+
+Core Areas: Data Structures and Algorithms<br>
 
 
 ## 🌐 Socials:
